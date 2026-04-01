@@ -68,9 +68,8 @@ Through this dashboard, several critical business insights were uncovered:
 
 ---
 
-## Download Excel File 
+## Download Power BI File 
 
-To have access to all the options this task has (`slicer`, `formulas`, `pivot-table` ...), please download the Excel file locally and you can use all the options listed above.
 
 [**Download**](https://github.com/ermirhaxhia/credit-card-power-bi-dashboard/raw/main/Credit-Card-Costumers.pbix)
 
